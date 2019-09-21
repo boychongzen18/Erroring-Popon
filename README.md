@@ -6,13 +6,17 @@
 
 # Tampilan Pancing WIFI
 ![be](https://raw.githubusercontent.com/boychongzen18/Erroring-Popon/master/wifi.jpg)
-# Tampilan Pancing Settingan Psiphon Pro Unlimite
+# Tampilan Pancing Settingan Psiphon Pro Unlimited
 ![be](https://raw.githubusercontent.com/boychongzen18/Erroring-Popon/master/popon.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Erroring-Popon/master/sett.jpg)
+# Tampilan Edit Script
+![be](https://raw.githubusercontent.com/boychongzen18/Erroring-Popon/master/uler.jpg)
+# Tampilan Konek Psiphon Pro Unlimited Status Error
+![be](https://raw.githubusercontent.com/boychongzen18/Erroring-Popon/master/konek.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : https://youtu.be/Yo9DEbbiaE4
+Link Tutorial : 
 
 My Website    : https://hackingforlive.wordpress.com
 
