@@ -4,9 +4,11 @@
 
 # Tested  Psiphon,qpython & Termux Working
 
-# Tampilan 
-![be](https://raw.githubusercontent.com/boychongzen18/WIFI-Modem-ZTE-F609/master/wifi.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/WIFI-Modem-ZTE-F609/master/wifi1.jpg)
+# Tampilan Pancing WIFI
+![be](https://raw.githubusercontent.com/boychongzen18/Erroring-Popon/master/wifi.jpg)
+# Tampilan Pancing Settingan Psiphon Pro Unlimite
+![be](https://raw.githubusercontent.com/boychongzen18/Erroring-Popon/master/popon.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Erroring-Popon/master/sett.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
