@@ -2,7 +2,7 @@
 
 # Author : Boychongzen aka Xroot
 
-# Tested  Psiphon,qpython & Termux Working
+# Tested : Psiphon , Qpython & Termux Working
 
 # Tampilan Pancing WIFI
 ![be](https://raw.githubusercontent.com/boychongzen18/Erroring-Popon/master/wifi.jpg)
