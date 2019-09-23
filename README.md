@@ -4,6 +4,8 @@
 
 # Tested : Psiphon , Qpython & Termux Working
 
+# Scripts V3 Working All Saweran & Opok
+
 # Tampilan Pancing WIFI
 ![be](https://raw.githubusercontent.com/boychongzen18/Erroring-Popon/master/wifi.jpg)
 # Tampilan Pancing Settingan Psiphon Pro Unlimited
